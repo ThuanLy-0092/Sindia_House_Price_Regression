@@ -47,11 +47,11 @@ The dataset used in this project is sourced from the [UCI Machine Learning Repos
 
 ### Conclusion and Further Analysis
 
-### Score: 9/10
-
 1. **Conclusion:**
    - Summarized the findings from the model evaluation.
    - Discussed any limitations or assumptions made during the modeling process.
 
 2. **Further Analysis:**
    - Proposed potential avenues for further analysis or model improvement.
+
+### Score: 9/10
