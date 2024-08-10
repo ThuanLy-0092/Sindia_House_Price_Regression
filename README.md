@@ -54,4 +54,4 @@ The dataset used in this project is sourced from the [UCI Machine Learning Repos
 2. **Further Analysis:**
    - Proposed potential avenues for further analysis or model improvement.
 
-### Score: 9/10
+### Score: [9/10](https://docs.google.com/spreadsheets/d/1Eyv9f2xt2KyV3tpZZkzaBGWBdh9G-MlkOtEU6jMgHG4/edit?fbclid=IwY2xjawEkasNleHRuA2FlbQIxMQABHRsvyHOase_5EOc_y7wB3DvfSQzDZ-n5Y1KsswlazYciQsutFr81pHz1eg_aem_frzFTYRdAeKNGmSDZD0DHw&gid=0#gid=0)
